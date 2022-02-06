@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # 1.  Establishes a workplane that an object can be built on.
 # 1a. Uses the named plane orientation "front" to define the workplane, meaning

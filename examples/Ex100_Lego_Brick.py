@@ -1,5 +1,5 @@
 # This script can create any regular rectangular Lego(TM) Brick
-import cadquery as cq
+import ncadquery as cq
 
 #####
 # Inputs

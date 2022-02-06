@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # Create a hollow box that's open on both ends with a thin wall.
 # 1.  Establishes a workplane that an object can be built on.

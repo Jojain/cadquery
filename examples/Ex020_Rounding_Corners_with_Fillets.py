@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # Create a plate with 4 rounded corners in the Z-axis.
 # 1.  Establishes a workplane that an object can be built on.

@@ -1,4 +1,4 @@
-from cadquery.utils import cqmultimethod as multimethod
+from ncadquery.utils import cqmultimethod as multimethod
 
 from pytest import raises
 

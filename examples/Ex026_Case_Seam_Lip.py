@@ -1,5 +1,5 @@
-import cadquery as cq
-from cadquery.selectors import AreaNthSelector
+import ncadquery as cq
+from ncadquery.selectors import AreaNthSelector
 
 case_bottom = (
     cq.Workplane("XY")

@@ -15,8 +15,8 @@ import os.path
 
 # my modules
 from tests import BaseTest, makeUnitCube, makeUnitSquareWire
-from cadquery import *
-from cadquery import selectors
+from ncadquery import *
+from ncadquery import selectors
 
 
 class TestCQSelectors(BaseTest):

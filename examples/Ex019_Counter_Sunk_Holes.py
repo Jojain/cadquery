@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # Create a plate with 4 counter-sunk holes in it.
 # 1.  Establishes a workplane using an XY object instead of a named plane.

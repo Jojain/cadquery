@@ -4,7 +4,7 @@ by OCP. Used in the file assy.rst.
 """
 
 from OCP import Quantity
-import cadquery as cq
+import ncadquery as cq
 from typing import Dict
 from itertools import chain
 

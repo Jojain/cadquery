@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # These can be modified rather than hardcoding values for each dimension.
 length = 80.0  # Length of the block

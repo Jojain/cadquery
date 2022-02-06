@@ -16,7 +16,7 @@ import os.path
 
 # print "working path is %s" % os.getcwd()
 # sys.path.append("../cadquery")
-import cadquery
+import ncadquery
 
 # settings._target = None
 

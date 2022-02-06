@@ -5,7 +5,7 @@ from tests import BaseTest
 from OCP.gp import gp_Vec, gp_Pnt, gp_Ax2, gp_Circ, gp_Elips, gp, gp_XYZ, gp_Trsf
 from OCP.BRepBuilderAPI import BRepBuilderAPI_MakeEdge
 
-from cadquery import *
+from ncadquery import *
 
 DEG2RAD = math.pi / 180
 RAD2DEG = 180 / math.pi

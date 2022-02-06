@@ -7,7 +7,7 @@
        defining a build_object function to return results
 """
 
-from cadquery import cqgi
+from ncadquery import cqgi
 from tests import BaseTest
 import textwrap
 

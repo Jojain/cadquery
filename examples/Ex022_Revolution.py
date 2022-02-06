@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # The dimensions of the model. These can be modified rather than changing the
 # shape's code directly.

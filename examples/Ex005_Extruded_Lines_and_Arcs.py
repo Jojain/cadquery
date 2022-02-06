@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # These can be modified rather than hardcoding values for each dimension.
 width = 2.0  # Overall width of the plate

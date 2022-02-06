@@ -1,7 +1,7 @@
 from tests import BaseTest
 
-import cadquery as cq
-from cadquery.occ_impl.jupyter_tools import display
+import ncadquery as cq
+from ncadquery.occ_impl.jupyter_tools import display
 
 
 class TestJupyter(BaseTest):

@@ -13,9 +13,9 @@ from pytest import approx, raises
 
 # my modules
 
-from cadquery import *
-from cadquery import exporters
-from cadquery import occ_impl
+from ncadquery import *
+from ncadquery import exporters
+from ncadquery import occ_impl
 from tests import (
     BaseTest,
     writeStringToFile,

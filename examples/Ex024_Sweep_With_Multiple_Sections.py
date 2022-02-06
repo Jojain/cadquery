@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # X axis line length 20.0
 path = cq.Workplane("XZ").moveTo(-10, 0).lineTo(10, 0)

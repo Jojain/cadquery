@@ -5,7 +5,7 @@ Provides classes and tools for executing CadQuery scripts
 import ast
 import traceback
 import time
-import cadquery
+import ncadquery
 
 CQSCRIPT = "<cqscript>"
 
@@ -426,8 +426,8 @@ class EnvironmentBuilder(object):
         return self
 
     def with_cadquery_objects(self):
-        self.env["cadquery"] = cadquery
-        self.env["cq"] = cadquery
+        self.env["cadquery"] = ncadquery
+        self.env["cq"] = ncadquery
         return self
 
     def add_entry(self, name, value):

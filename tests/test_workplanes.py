@@ -4,7 +4,7 @@
 # core modules
 
 # my modules
-from cadquery import *
+from ncadquery import *
 from tests import BaseTest, toTuple
 
 xAxis_ = Vector(1, 0, 0)

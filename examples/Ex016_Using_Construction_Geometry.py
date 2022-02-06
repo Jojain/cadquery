@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # Create a block with holes in each corner of a rectangle on that workplane.
 # 1.  Establishes a workplane that an object can be built on.

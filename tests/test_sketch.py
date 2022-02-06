@@ -1,7 +1,7 @@
 import os
 
-from cadquery.sketch import Sketch, Vector, Location
-from cadquery.selectors import LengthNthSelector
+from ncadquery.sketch import Sketch, Vector, Location
+from ncadquery.selectors import LengthNthSelector
 
 from pytest import approx, raises
 from math import pi, sqrt

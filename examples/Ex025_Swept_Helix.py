@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 r = 0.5  # Radius of the helix
 p = 0.4  # Pitch of the helix - vertical distance between loops

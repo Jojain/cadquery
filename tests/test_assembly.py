@@ -3,14 +3,14 @@ import os
 from itertools import product
 
 import nlopt
-import cadquery as cq
-from cadquery.occ_impl.exporters.assembly import (
+import ncadquery as cq
+from ncadquery.occ_impl.exporters.assembly import (
     exportAssembly,
     exportCAF,
     exportVTKJS,
     exportVRML,
 )
-from cadquery.occ_impl.assembly import toJSON
+from ncadquery.occ_impl.assembly import toJSON
 from OCP.gp import gp_XYZ
 
 

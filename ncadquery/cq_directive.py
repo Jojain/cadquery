@@ -9,9 +9,9 @@ from pathlib import Path
 from uuid import uuid1 as uuid
 from textwrap import indent
 
-from cadquery import exporters, Assembly, Compound, Color, Sketch
-from cadquery import cqgi
-from cadquery.occ_impl.jupyter_tools import (
+from ncadquery import exporters, Assembly, Compound, Color, Sketch
+from ncadquery import cqgi
+from ncadquery.occ_impl.jupyter_tools import (
     toJSON,
     dumps,
     TEMPLATE_RENDER,

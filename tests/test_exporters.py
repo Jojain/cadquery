@@ -6,8 +6,8 @@ import sys
 import io
 
 # my modules
-from cadquery import *
-from cadquery import exporters, importers
+from ncadquery import *
+from ncadquery import exporters, importers
 from tests import BaseTest
 from OCP.GeomConvert import GeomConvert
 from OCP.BRepBuilderAPI import BRepBuilderAPI_MakeEdge

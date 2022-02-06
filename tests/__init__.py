@@ -1,4 +1,4 @@
-from cadquery import *
+from ncadquery import *
 from OCP.gp import gp_Vec
 import unittest
 import sys

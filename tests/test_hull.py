@@ -1,7 +1,7 @@
 import pytest
 
-import cadquery as cq
-from cadquery import hull
+import ncadquery as cq
+from ncadquery import hull
 
 
 def test_hull():

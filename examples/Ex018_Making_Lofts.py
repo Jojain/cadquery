@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # Create a lofted section between a rectangle and a circular section.
 # 1.  Establishes a workplane that an object can be built on.

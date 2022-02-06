@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # These can be modified rather than hardcoding values for each dimension.
 circle_radius = 50.0  # Radius of the plate

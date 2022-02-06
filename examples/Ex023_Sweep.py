@@ -1,4 +1,4 @@
-import cadquery as cq
+import ncadquery as cq
 
 # Points we will use to create spline and polyline paths to sweep over
 pts = [(0, 1), (1, 2), (2, 4)]

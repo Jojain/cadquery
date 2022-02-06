@@ -9,9 +9,9 @@ from docutils.parsers.rst import directives
 from docutils.core import publish_doctree
 from docutils.utils import Reporter
 
-import cadquery as cq
-from cadquery import cqgi
-from cadquery.cq_directive import cq_directive
+import ncadquery as cq
+from ncadquery import cqgi
+from ncadquery.cq_directive import cq_directive
 
 
 def find_examples(pattern="examples/*.py", path=Path("examples")):
