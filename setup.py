@@ -22,7 +22,7 @@ if "TRAVIS_TAG" in os.environ.keys():
 
 
 setup(
-    name="nales_cadquery",
+    name="ncadquery",
     version=version,
     url="https://github.com/dcowden/cadquery",
     license="Apache Public License 2.0",
