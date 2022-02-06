@@ -16,13 +16,13 @@ from setuptools import setup, find_packages
 
 
 # if we are building in travis, use the build number as the sub-minor version
-version = "2.1"
+version = "0.1"
 if "TRAVIS_TAG" in os.environ.keys():
     version = os.environ["TRAVIS_TAG"]
 
 
 setup(
-    name="cadquery",
+    name="ncadquery",
     version=version,
     url="https://github.com/dcowden/cadquery",
     license="Apache Public License 2.0",
