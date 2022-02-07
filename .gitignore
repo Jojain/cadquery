@@ -1,7 +1,7 @@
 build/
 *.pyc
 doc/_build/*
-dist/*
+
 .idea/*
 cadquery.egg-info/
 target/*
@@ -19,3 +19,8 @@ simple.step
 simple.stp
 simple.xml
 test.brep
+ncadquery.egg-info/top_level.txt
+ncadquery.egg-info/SOURCES.txt
+ncadquery.egg-info/PKG-INFO
+ncadquery.egg-info/not-zip-safe
+ncadquery.egg-info/dependency_links.txt
